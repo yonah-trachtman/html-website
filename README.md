@@ -1,1 +1,1 @@
-preview link: https://yonah-trachtman.github.io/html-website/Some-resources.html
+preview link: https://yonah-trachtman.github.io/html-website/index.html
